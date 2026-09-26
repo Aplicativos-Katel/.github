@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/334025025?v=4" width="140" alt="Aplicativos Katel">
+<img src="./assets/aplicativos-katel-icon.jpg" width="140" alt="Aplicativos Katel">
 
 # Aplicativos Katel
 
