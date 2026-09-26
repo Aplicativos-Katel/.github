@@ -4,7 +4,7 @@
 
 # Aplicativos Katel
 
-**Aplicativos, jogos e ferramentas digitais com foco em experiência, qualidade e evolução contínua.**
+**Aplicativos, jogos e ferramentas digitais com foco em qualidade, simplicidade e evolução contínua.**
 
 </div>
 
